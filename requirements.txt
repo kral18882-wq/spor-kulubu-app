@@ -1,0 +1,1 @@
+pandasopenpyxlpillowreportlabpyinstaller
